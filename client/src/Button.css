@@ -1,0 +1,8 @@
+.my-button {
+  background-color: transparent;
+  color: none;
+  transition: background-color 0.3s;
+}
+.my-button:hover {
+  background-color: rgba(171, 168, 168, 0.393);
+}
