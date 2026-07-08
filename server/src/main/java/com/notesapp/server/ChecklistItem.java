@@ -47,10 +47,6 @@ public class ChecklistItem {
         return this.checked;
     }
 
-    // public String getItemText() {
-    // return this.itemText;
-    // }
-
     public void setItemText(String itemText) {
         this.itemText = itemText;
     }
